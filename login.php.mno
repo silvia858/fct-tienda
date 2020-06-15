@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_registro" value="name:nombre;datatype:string,name:contraseña;datatype:string,name:apellidos;datatype:string,name:direccion;datatype:string,name:correo;datatype:string,name:movil;datatype:int" />
+</info>
